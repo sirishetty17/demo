@@ -1,0 +1,21 @@
+button{
+    background-color: rgb(20, 192, 255);
+    display:inline-block;
+    margin:7px 2px;
+    font-size: larger;
+    border:none;
+    padding:14px 30px;
+}
+p{
+    font-size:larger;
+}
+a{
+    font-size:large;
+}
+.head{
+    display:flex;
+    justify-content:space-between;
+}
+.nav{
+    padding-right: 40px;
+}
